@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QJp7i6YSuCW/5KdCSyBF3uC8jp4MVTiXTFdyeVRYo7Q=",
+  "Source": "Invoicing",
+  "BasePath": "_content/Invoicing",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
